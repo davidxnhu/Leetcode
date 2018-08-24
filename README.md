@@ -1,5 +1,7 @@
 # Leetcode
 
-Finished the first 800 questions on leetcode by Python
+Finished the first 800 questions on Leetcode by Python.
 
-To be updated.
+Updated easy and medium questions.
+
+Hard questions to be updated.
