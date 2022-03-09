@@ -1,6 +1,5 @@
 ---
-title: "Easy"
-author: "Rui Wang"
+title: "Medium"
 date: "7/8/2017"
 output: html_document
 ---
